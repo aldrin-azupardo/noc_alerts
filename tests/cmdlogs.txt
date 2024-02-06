@@ -1,0 +1,6 @@
+Cisco Syslog Agent[STARTED]
+Cisco Wireless Controller Synchronization Service[STARTED]
+Cisco WebDialer Web Service[STOPPED]  Service Not Activated
+Cisco UXL Web Service[STOPPED] Service Not Activated
+Cisco Extended Functions[STOPPED]  Service Not Activated
+Host Resource Agent[STOPPED]  Commanded Out of Service

@@ -1,0 +1,47 @@
+Switch	 FAN	 Speed	 State
+---------------------------------------------------
+  1  	  1	13760 	  OK
+  1  	  2	13760 	  OK
+  1  	  3	13760 	  OK
+FAN PS-1 is OK
+FAN PS-2 is NOT PRESENT
+Switch 1: SYSTEM TEMPERATURE is OK
+Inlet Temperature Value: 22 Degree Celsius
+Temperature State: GREEN
+Yellow Threshold : 46 Degree Celsius
+Red Threshold    : 56 Degree Celsius
+
+Outlet Temperature Value: 26 Degree Celsius
+Temperature State: GREEN
+Yellow Threshold : 105 Degree Celsius
+Red Threshold    : 125 Degree Celsius
+
+Hotspot Temperature Value: 40 Degree Celsius
+Temperature State: GREEN
+Yellow Threshold : 105 Degree Celsius
+Red Threshold    : 125 Degree Celsius
+SW  PID                 Serial#     Status           Sys Pwr  PoE Pwr  Watts
+--  ------------------  ----------  ---------------  -------  -------  -----
+1A  PWR-C1-1100WAC-P    DCC2527D9KS  OK              Good     Good     1100
+1B  Bad
+PS1
+PS2
+=====================================================================
+show inventory
+
+NAME: "c93xx Stack", DESCR: "c93xx Stack"
+PID: C9300-48U         , VID: V05  , SN: FJC253714LP
+
+NAME: "Switch 1", DESCR: "C9300-48U"
+PID: C9300-48U         , VID: V05  , SN: FJC253714LP
+
+NAME: "Switch 1 - Power Supply A", DESCR: "Switch 1 - Power Supply 1"
+PID: PWR-C1-1100WAC-P  , VID: V01  , SN: DCC2527D9KS
+
+NAME: "Switch 1 - Power Supply A", DESCR: "Switch 1 - Power Supply 2"
+PID: PWR-C1-1100WAC-P  , VID: V01  , SN: DCC2527D9KF
+
+PS1 = Power Supply 1
+PS2 = Power Supply 2
+1A = Power Supply A
+1B = Power Supply B

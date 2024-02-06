@@ -1,0 +1,202 @@
+{
+  "result": [
+    {
+      "promoted_by": "",
+      "parent": "",
+      "caused_by": "",
+      "watch_list": "",
+      "upon_reject": "cancel",
+      "sys_updated_on": "2022-02-17 17:01:14",
+      "origin_table": "",
+      "approval_history": "",
+      "u_watch_list": "",
+      "skills": "",
+      "number": "INC01930663",
+      "proposed_by": "",
+      "u_reference_id": "",
+      "ssns": "",
+      "lessons_learned": "",
+      "u_mim": "",
+      "state": "7",
+      "u_kb_title": "",
+      "sys_created_by": "admin",
+      "knowledge": "false",
+      "order": "",
+      "u_product_line_task": "",
+      "cmdb_ci": {
+        "link": "https://chevronbox.service-now.com/api/now/table/cmdb_ci/b91e592cdbcbdc50805f252b13961958",
+        "value": "b91e592cdbcbdc50805f252b13961958"
+      },
+      "cmdb_ci_business_app": "",
+      "contract": "",
+      "impact": "2",
+      "active": "false",
+      "work_notes_list": "",
+      "priority": "4",
+      "sys_domain_path": "/",
+      "u_config_tier": "",
+      "business_duration": "1970-01-01 00:00:00",
+      "group_list": "",
+      "credit_cards": "",
+      "u_infrastructure_sla": "true",
+      "approval_set": "",
+      "major_incident_state": "",
+      "universal_request": "",
+      "short_description": "Alert Triggered",
+      "correlation_display": "",
+      "work_start": "",
+      "u_3rd_party_supplier": "",
+      "additional_assignee_list": "",
+      "notify": "1",
+      "service_offering": "",
+      "sys_class_name": "incident",
+      "closed_by": {
+        "link": "https://chevronbox.service-now.com/api/now/table/sys_user/6816f79cc0a8016401c5a33be04be441",
+        "value": "6816f79cc0a8016401c5a33be04be441"
+      },
+      "follow_up": "",
+      "encryption_context": "",
+      "parent_incident": "",
+      "reopened_by": "",
+      "reassignment_count": "0",
+      "assigned_to": {
+        "link": "https://chevronbox.service-now.com/api/now/table/sys_user/f0f588461b271c5cc047755e034bcbde",
+        "value": "f0f588461b271c5cc047755e034bcbde"
+      },
+      "u_alternative_location": "false",
+      "u_digital_platforms": "",
+      "sla_due": "",
+      "comments_and_work_notes": "",
+      "escalation": "0",
+      "upon_approval": "proceed",
+      "correlation_id": "",
+      "timeline": "",
+      "u_customer": {
+        "link": "https://chevronbox.service-now.com/api/now/table/sys_user/9d5de9e5930022005bc5f179077ffb07",
+        "value": "9d5de9e5930022005bc5f179077ffb07"
+      },
+      "made_sla": "true",
+      "promoted_on": "",
+      "child_incidents": "0",
+      "hold_reason": "",
+      "task_effective_number": "INC01930663",
+      "u_mim_group": "",
+      "u_availability_of_the_ci": "",
+      "resolved_by": {
+        "link": "https://chevronbox.service-now.com/api/now/table/sys_user/6816f79cc0a8016401c5a33be04be441",
+        "value": "6816f79cc0a8016401c5a33be04be441"
+      },
+      "sys_updated_by": "system",
+      "opened_by": {
+        "link": "https://chevronbox.service-now.com/api/now/table/sys_user/6816f79cc0a8016401c5a33be04be441",
+        "value": "6816f79cc0a8016401c5a33be04be441"
+      },
+      "u_sla_breach_reason": "",
+      "u_workspace": "",
+      "user_input": "",
+      "sys_created_on": "2022-02-07 16:13:46",
+      "sys_domain": {
+        "link": "https://chevronbox.service-now.com/api/now/table/sys_user_group/global",
+        "value": "global"
+      },
+      "proposed_on": "",
+      "actions_taken": "",
+      "u_alternative_location_details": "",
+      "route_reason": "",
+      "u_application_sla": "false",
+      "calendar_stc": "660",
+      "encrypted_by": "",
+      "u_3rd_party_reference": "",
+      "u_termination_date": "",
+      "closed_at": "2022-02-17 17:01:13",
+      "test": "false",
+      "u_prefered_contact_information": "",
+      "u_availability_of_ci": "",
+      "business_service": "",
+      "business_impact": "",
+      "test_column": "false",
+      "rfc": "",
+      "time_worked": "",
+      "u_product_lines": "",
+      "expected_start": "",
+      "u_recategorization_count": "0",
+      "opened_at": "2022-02-07 16:13:46",
+      "work_end": "",
+      "caller_id": {
+        "link": "https://chevronbox.service-now.com/api/now/table/sys_user/9d5de9e5930022005bc5f179077ffb07",
+        "value": "9d5de9e5930022005bc5f179077ffb07"
+      },
+      "reopened_time": "",
+      "resolved_at": "2022-02-07 16:24:46",
+      "u_contact_state": "",
+      "subcategory": "Monitoring Alert",
+      "work_notes": "",
+      "u_template_used": {
+        "link": "https://chevronbox.service-now.com/api/now/table/sys_template/a29387e6db530010d7a110c9139619b2",
+        "value": "a29387e6db530010d7a110c9139619b2"
+      },
+      "close_code": "Solved Remotely (Permanently)",
+      "assignment_group": {
+        "link": "https://chevronbox.service-now.com/api/now/table/sys_user_group/28e061cb1b1b2850bdfaa977b04bcbdf",
+        "value": "28e061cb1b1b2850bdfaa977b04bcbdf"
+      },
+      "business_stc": "0",
+      "cause": "",
+      "description": "GNOC - NA - Fault - Power Supply Failure - Polling \r\n\r\n\r\nNode: RIC981SL1.ric100.chevrontexaco.net \r\nAlert Triggered: Monday, February 7, 2022 10:08 AM \r\n\r\n\r\nHardware Health issue occurred on RIC981SL1.ric100.chevrontexaco.net \r\n\r\n\r\nSeverity: Warning \r\nDevice Name: RIC981SL1.ric100.chevrontexaco.net \r\nIP Address: 146.28.161.6 \r\nLocation: RIC981 / 981 Hensley St, Richmond, CA / USA / Americas /US-NA-Utility-Campus-Metro/Criticality-Medium \r\nModel: Cisco Catalyst 9300 Series Switch \r\nVendor: Cisco \r\nIsManaged: CTC \r\n\r\n\r\n\r\nDevice Details: https://cenic-itc-us.chevron.com:443/Orion/View.aspx?NetObject=HWHS:213707 \r\nAlert Details: https://cenic-itc-us.chevron.com:443/Orion/View.aspx?NetObject=AAT:299700 \r\nAcknowledge Alert: https://cenic-itc-us.chevron.com:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=299700\r\nSourceName:SolarWinds\r\n\r\nURL :https://cenic-itc-us.chevron.com:443/Orion/View.aspx?NetObject=HWHS:213707",
+      "origin_id": "",
+      "calendar_duration": "1970-01-01 00:11:00",
+      "u_prefered_contact_method": "none",
+      "close_notes": "Closed the task associated with alert: Alert16799209",
+      "sys_id": "d8b582911be94910579774ce034bcbc0",
+      "contact_type": "Event",
+      "u_survey_status": "survey_eligible",
+      "incident_state": "7",
+      "urgency": "3",
+      "problem_id": "",
+      "company": "",
+      "activity_due": "",
+      "severity": "3",
+      "overview": "",
+      "comments": "",
+      "approval": "not requested",
+      "due_date": "2022-02-24 16:50:13",
+      "sys_mod_count": "7",
+      "u_availability": "",
+      "reopen_count": "0",
+      "sys_tags": "",
+      "x_caci_sg_meraki_device_alert": "",
+      "u_knowledge_article": "",
+      "location": {
+        "link": "https://chevronbox.service-now.com/api/now/table/cmn_location/d2fff441db4647406baf753a8c961937",
+        "value": "d2fff441db4647406baf753a8c961937"
+      },
+      "category": "network"
+    }
+  ]
+}
+
+
+===============================================================================
+GNOC - NA - Fault - Juniper PowerSupply Failed 
+
+Node: AS-BD-DHAK-B-OFCMP-PE2 
+Alert Triggered: Wednesday, November 3, 2021 10:55 PM 
+
+AS-BD-DHAK-B-OFCMP-PE2 is having Juniper Power Supply failed alert 
+
+Severity: Serious 
+Device Name: AS-BD-DHAK-B-OFCMP-PE2 
+IP Address: 139.65.226.115 
+Location: DHAKGA / House 6, Rd 137, Gulshan 1, Dhaka / Bangladesh / APAC / BD-NA-Utility-Core / Criticality-High 
+Serial Number:  
+Model: Juniper MX10 
+Vendor: Juniper Networks, Inc. 
+IsManaged:
+
+
+ CTC 
+
+
+Device Details: https://cenic-itc-us.chevron.com:443/Orion/NetPerfMon/NodeDetails.aspx?NetObject=N:225 
+Alert Details: https://cenic-itc-us.chevron.com:443/Orion/View.aspx?NetObject=AAT:254626 
+Acknowledge Alert: https://cenic-itc-us.chevron.com:443/Orion/Netperfmon/AckAlert.aspx?AlertDefID=254626

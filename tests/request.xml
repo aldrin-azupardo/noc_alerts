@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns="http://10.10.20.1/AXL/API/12.5">
+    <soapenv:Header/>
+    <soapenv:Body>
+    <ns:executeSQLQuery>
+        <sql>Select name from device where tkclass = 1</sql>
+    </ns:executeSQLQuery>
+    </soapenv:Body>
+</soapenv:Envelope>

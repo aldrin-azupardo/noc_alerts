@@ -1,0 +1,11 @@
+Value SW (\d\w)
+Value PID (Not Present|Bad|No Input Power|PWR-C1-\d+WAC(-P)?)
+Value Serial (\S+)
+Value Status (\S+)
+Value Sys_Pwr (\w+)
+Value PoE_Pwr (\w+)
+Value Watts (\d+)
+
+Start
+  ^${SW}\s+${PID}\s+${Serial}\s+${Status}\s+${Sys_Pwr}\s+${PoE_Pwr}\s+${Watts} -> Continue
+  ^${SW}\s+${PID} -> Record

@@ -1,0 +1,17 @@
+[
+  {
+    "hostname": "host1",
+    "cpu_util": "32.65%",
+    "disk_util": "97%"
+  },
+  {
+    "hostname": "host2",
+    "cpu_util": "93.30%",
+    "disk_util": "70%"
+  },
+  {
+    "hostname": "host3",
+    "cpu_util": "92.42%",
+    "disk_util": "71%"
+  }
+]

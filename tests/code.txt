@@ -1,0 +1,5 @@
+[caaz@gmlcpansvlp0001 L1tickets]$ python3 fetch-showenv2.py
+INC01930663
+146.28.161.6
+{'IP address': '146.28.161.6', 'Is Alive': True, 'Good SSH Connection': True, 'Environment_details': [['1A', 'PWR-C1-715WAC', 'LIT22082VYY', 'OK', 'Good', 'Good', '715'], ['1B', 'PWR-C1-715WAC', 'DCA2203G0SP', 'OK', 'Good', 'Good', '715']]}
+[caaz@gmlcpansvlp0001 L1tickets]$ 
