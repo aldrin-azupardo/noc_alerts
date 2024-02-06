@@ -11,7 +11,7 @@ ssh_password = str(sys.argv[2])
 snow_username = str(sys.argv[3])
 snow_password = str(sys.argv[4])
 number = str(sys.argv[5])
-url = 'https://chevronbox.service-now.com'
+url = ''
 
 def Main():
     credential_params = {
