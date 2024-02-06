@@ -3,21 +3,7 @@ import requests
 import re
 import json
 
-"""Class Usage
-def call():
-    params = {
-        'sysparm_query': '',
-        'assignment_group': 'a27a5fc6dbb33f002b53ab92ca9619ba',
-        'state':'1^descriptionLIKEGNOC - NA - Fault^assigned_toISEMPTY'
-    }
 
-    # url = 'https://chevron.service-now.com'
-    # url = 'https://chevronbox.service-now.com'
-    repository = IncidentRepository(baseurl=url)
-    incident = repository.get_incident(params=params)
-    incident.incident_num
-    incident.ip_address
-"""
 
 class Incident(object):
     def __init__(self, incident_num, ip_address, neighbor_ip, interface, device_vendor):
